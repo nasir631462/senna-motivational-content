@@ -3,7 +3,7 @@
 ![Ayrton Senna](https://via.placeholder.com/1200x400/000080/FFFFFF?text=Ayrton+Senna+Motivational+Content)
 
 **If you no longer go for a gap that exists, you are no longer a racing driver<br>
-I have no idols. I admire work, dedication and competence
+I have no idols. I admire work, dedication and competence<br>
 I am not designed to come second or third. I am designed to win**
 
 ##  Overview
